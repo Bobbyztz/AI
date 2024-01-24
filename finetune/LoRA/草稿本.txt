@@ -1,0 +1,17 @@
+Learning source：
+
+
+Done:
+
+1. LoRA From Scratch – Implement Low-Rank Adaptation for LLMs in PyTorch
+	- https://lightning.ai/lightning-ai/studios/code-lora-from-scratch?continueFlag=9322d42cf03b95e88a671a56a6b3c1d0
+	- Implement LoRA from scratch, using code from Microsoft.
+
+2. LLM微调(Finetune) 技术--LoRA
+	- https://mp.weixin.qq.com/s/KKEzBfmphVln-bNufy_M9g
+	- introduce different finetune tech.
+	- introduce LoRA with its math mechanism.
+
+-------------------------------------------------------------------------------------------
+To do:
+
