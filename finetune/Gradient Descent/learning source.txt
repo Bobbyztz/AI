@@ -1,0 +1,7 @@
+Learning source:
+
+Done:
+
+1. Gradient Descent and the Melody of Optimization Algorithms
+	- https://pub.towardsai.net/gradient-descent-and-the-melody-of-optimization-algorithms-244830ea2516
+	- introduce different ways of gradient descent
