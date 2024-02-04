@@ -1,2 +1,2 @@
 # AI
-Path of AI learning
+AI learning
